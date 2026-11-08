@@ -1,0 +1,10 @@
+# ==============================================================================
+# Robots.txt for Mezaan Boys Hostel (G-9/4 Islamabad)
+# Official Website Crawl Directives
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap Directive
+Sitemap: https://mezaanboyshostel.com/sitemap.xml

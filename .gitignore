@@ -1,0 +1,12 @@
+# Python helper scripts
+*.py
+__pycache__/
+
+# Subfolder duplicate
+hostel-village-master/
+
+# Temporary frame extraction folders
+assets/images/curated/
+assets/images/extracted/
+assets/images/scenes/
+assets/images/contact_sheet.jpg
